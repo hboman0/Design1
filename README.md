@@ -23,25 +23,39 @@ Time:
 <img width="482" height="286" alt="MergeSortTime" src="https://github.com/user-attachments/assets/e16a66b8-d437-4853-9192-4041680dcebc" />
 
 Depth:
+
 <img width="476" height="285" alt="MergeSortDepth" src="https://github.com/user-attachments/assets/49b2dcf6-b218-4336-aa55-89f8daec131a" />
 
 QuickSort:
+
 Time:
+
 <img width="477" height="288" alt="QuickSortTime" src="https://github.com/user-attachments/assets/a4be56bd-3135-4e3f-b245-e27d4d640cd3" />
+
 Depth:
+
 <img width="477" height="287" alt="QuickSortDepth" src="https://github.com/user-attachments/assets/c44a8c15-0339-4258-a297-ef869cff8be6" />
 
 DeterministicSelect:
+
 Time:
+
 <img width="478" height="291" alt="DeterministicSelectTime" src="https://github.com/user-attachments/assets/28b125fd-b8d7-41b6-bd27-e782e62823af" />
+
 Depth:
+
 <img width="480" height="289" alt="DeterministicSelectDepth" src="https://github.com/user-attachments/assets/e01844a1-9464-41b3-b68d-54279e922a19" />
 
 ClosestPait:
+
 Time:
+
 <img width="481" height="288" alt="ClosestPairTime" src="https://github.com/user-attachments/assets/26b671b6-6ddf-4b47-acad-dcc1dbdc5f5c" />
+
 Depth:
+
 <img width="481" height="287" alt="ClosestPairDepth" src="https://github.com/user-attachments/assets/fbd7cd52-72e7-4edf-a1e8-fff13797492c" />
+
 
 Time vs n: All algorithms scale roughly as n log n (linear for Select).
 
