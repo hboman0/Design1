@@ -13,6 +13,7 @@ public class Benchmark {
     public static void main(String[] args) {
         int[] sizes = {100, 1000, 5000, 10000};
 
+
         try (PrintWriter csv = new PrintWriter(new FileWriter("C:/Users/sovet/IdeaProjects/ADS/src/practice/DesignAss1/benchmark.csv"))) {
             csv.println("algorithm,n,time_ns,maxDepth");
             System.out.println("algorithm,n,time_ns,maxDepth");
