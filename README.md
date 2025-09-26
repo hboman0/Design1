@@ -17,8 +17,11 @@ Closest Pair (2D): Sorts points by x-coordinate, recursively splits, and checks 
 
 Graphs:
 MergeSort:
+
 Time:
+
 <img width="482" height="286" alt="MergeSortTime" src="https://github.com/user-attachments/assets/e16a66b8-d437-4853-9192-4041680dcebc" />
+
 Depth:
 <img width="476" height="285" alt="MergeSortDepth" src="https://github.com/user-attachments/assets/49b2dcf6-b218-4336-aa55-89f8daec131a" />
 
